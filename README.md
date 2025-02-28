@@ -62,3 +62,4 @@ This project explores the key factors influencing **song popularity**, focusing 
 🚀 **Explore Nonlinear Trends** – Consider **interaction effects** between tempo, loudness, and valence when composing songs.  
 
 ---
+📄 **[Exploratory Data Analysis Report](https://github.com/adyareddy15/Data-and-Programming-Project/blob/main/Code%20for%20Exploratory%20Data%20Analysis.pdf)**
